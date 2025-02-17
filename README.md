@@ -7,9 +7,9 @@ Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio inter
 <p align="left">
     <a href="https://caiovisuals.com">
         <img 
-            alt="Meu portfólio" 
-            title="Meu portfólio"
-            src="https://custom-icon-badges.demolab.com/badge/Meu%20portfólio-7E80FF.svg?logo=code-review&logoColor=white"
+            alt="Meu Portfólio" 
+            title="Meu Portfólio"
+            src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-7E80FF.svg?logo=code-review&logoColor=white"
             height="25"
         />
     </a>
