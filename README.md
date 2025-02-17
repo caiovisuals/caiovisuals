@@ -5,7 +5,7 @@
 Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio interfaces, produtos, marcas e histórias.
 
 <p align="left">
-    <a href="https://caio-portfolio.netlify.app">
+    <a href="https://caiovisuals.com">
         <img 
             alt="Meu portfólio" 
             title="Meu portfólio"
