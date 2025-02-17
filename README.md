@@ -10,7 +10,7 @@ Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio inter
             alt="Meu portfólio" 
             title="Meu portfólio"
             src="https://custom-icon-badges.demolab.com/badge/Meu%20portfólio-7E80FF.svg?logo=code-review&logoColor=white"
-            height="30"
+            height="25"
         />
     </a>
     &nbsp;
@@ -19,7 +19,7 @@ Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio inter
             alt="Behance" 
             title="Behance"
             src="https://custom-icon-badges.demolab.com/badge/Behance-053EFF.svg?logo=behance&logoColor=white"
-            height="30"
+            height="25"
         />
     </a>
     &nbsp;
@@ -28,7 +28,16 @@ Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio inter
             alt="Instagram" 
             title="Instagram"
             src="https://custom-icon-badges.demolab.com/badge/Instagram-D62976.svg?logo=instagram&logoColor=white"
-            height="30"
+            height="25"
+        />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/caiovisuals-">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0E76A8.svg?logo=linkedin&logoColor=white"
+            height="25"
         />
     </a>
 </p>
