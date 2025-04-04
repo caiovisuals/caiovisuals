@@ -2,7 +2,8 @@
 
 **`Designer`** **`Desenvolvedor FullStack`** **`Social Media`**
 
-Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. Eu crio interfaces, produtos, marcas e histórias.
+Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. 
+Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e ilustrador.
 
 <p align="left">
     <a href="https://caiovisuals.com">
