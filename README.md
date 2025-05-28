@@ -88,7 +88,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
     title="Adobe Photoshop"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
 />
 <img 
     align="left" 
