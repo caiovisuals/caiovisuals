@@ -1,9 +1,9 @@
 ## 👾caiothevisual!
 
-**`Designer`** **`Desenvolvedor FullStack`** **`Social Media`**
+**`Designer`** **`Desenvolvedor Front-End`** **`Ilustrador`**
 
 Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. <br/>
-Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e ilustrador.
+Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e ilustrador.
 
 <p align="left">
     <a href="https://caiovisuals.com">
@@ -65,14 +65,6 @@ Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
