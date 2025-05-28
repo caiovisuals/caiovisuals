@@ -96,7 +96,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
     title="Adobe After Effects"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png"
 />
 <img 
     align="left" 
