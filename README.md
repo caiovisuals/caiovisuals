@@ -6,7 +6,7 @@ Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. <br/>
 Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e ilustrador.
 
 <p align="left">
-    <a href="https://caiovisuals.com">
+    <a href="https://caiovisuals.com" target="_blank">
         <img 
             alt="Portfólio" 
             title="Portfólio"
@@ -14,7 +14,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
             height="25"
         />
     </a>
-    <a href="https://www.linkedin.com/in/caiovisuals-">
+    <a href="https://www.linkedin.com/in/caiovisuals-" target="_blank">
         <img 
             alt="Linkedin" 
             title="Linkedin"
