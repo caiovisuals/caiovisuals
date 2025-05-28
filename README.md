@@ -104,7 +104,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
     title="Adobe Premiere Pro" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549"
 />
 
 <br/>
