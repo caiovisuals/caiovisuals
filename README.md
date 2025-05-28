@@ -18,7 +18,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
         <img 
             alt="Linkedin" 
             title="Linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072B1.svg?logo=code-review&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072B1.svg?logo=linkedin&logoColor=white"
             height="25"
         />
     </a>
