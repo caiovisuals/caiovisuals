@@ -22,6 +22,14 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
             height="25"
         />
     </a>
+    <a href="https://www.instagram.com/caiovisuals_" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-DD2A7B.svg?logo=instagram&logoColor=white"
+            height="25"
+        />
+    </a>
 </p>
 
 ### Linguagens e Tecnologias
