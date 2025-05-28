@@ -8,9 +8,17 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
 <p align="left">
     <a href="https://caiovisuals.com">
         <img 
-            alt="Meu Portfólio" 
-            title="Meu Portfólio"
+            alt="Portfólio" 
+            title="Portfólio"
             src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-7E80FF.svg?logo=code-review&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/caiovisuals-">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072B1.svg?logo=code-review&logoColor=white"
             height="25"
         />
     </a>
