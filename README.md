@@ -2,7 +2,7 @@
 
 **`Designer`** **`Desenvolvedor Front-End`** **`Ilustrador`**
 
-Fala pity! Meu nome é Caio, tenho 17 anos e sou natural da Bahia. <br/>
+Fala pity! Meu nome é Caio, tenho 18 anos e sou natural da Bahia. <br/>
 Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e ilustrador.
 
 <p align="left">
