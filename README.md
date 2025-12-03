@@ -117,7 +117,7 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
         align="left" 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=caiovisuals&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=caiovisuals&show_icons=true&theme=tokyonight"
     />
     <img 
         alt="GitHub Stats" 
