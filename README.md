@@ -92,6 +92,14 @@ Trabalho a mais de 5 anos como designer e 2 anos como programador front-end. Eu 
 />
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Adobe Photoshop" 
     title="Adobe Photoshop"
     width="35px" 
