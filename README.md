@@ -3,7 +3,7 @@
 **`Designer`** **`Desenvolvedor Front-End`** **`UX/UI Designer`**
 
 Fala devs! Meu nome é **Caio**, tenho 18 anos e sou natural da Bahia. <br/>
-Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de software programador front-end**. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e UX/UI designer.
+Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de software e programador front-end**. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e UX/UI designer.
 
 <p align="left">
     <a href="https://caiovisuals.com" target="_blank">
