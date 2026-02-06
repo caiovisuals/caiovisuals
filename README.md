@@ -2,8 +2,11 @@
 
 **`Designer`** **`Desenvolvedor Front-End`** **`UX/UI Designer`**
 
-Fala devs! Meu nome é **Caio**, tenho 18 anos e sou natural da Bahia. <br/>
-Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de software e programador front-end**. Eu crio, transformo e desenvolvo interfaces, marcas e histórias como designer, desenvolvedor front-end e UX/UI designer.
+Fala devs! Meu nome é **Caio**, tenho 18 anos e sou desenvolvedor de software e designer! <br/>
+Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de software e programador front-end**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
+
+Atualmente foco no ecossistema front-end moderno, trabalhando com *React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e boas práticas de UX/UI.
+Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
 
 <p align="left">
     <a href="https://caiovisuals.com" target="_blank">
@@ -27,6 +30,14 @@ Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de softwa
             alt="Instagram" 
             title="Instagram"
             src="https://custom-icon-badges.demolab.com/badge/Instagram-DD2A7B.svg?logo=instagram&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://x.com/caioba2007" target="_blank">
+        <img 
+            alt="X" 
+            title="X"
+            src="https://custom-icon-badges.demolab.com/badge/X-000000.svg?logo=x&logoColor=white"
             height="25"
         />
     </a>
