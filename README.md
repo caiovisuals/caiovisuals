@@ -21,7 +21,15 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
         <img 
             alt="Linkedin" 
             title="Linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072B1.svg?logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072B1.svg?logo=linkedin-in&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://www.youtube.com/@caiovisuals" target="_blank" rel="noopener">
+        <img 
+            alt="YouTube" 
+            title="YouTube"
+            src="https://custom-icon-badges.demolab.com/badge/youtube-FF0000.svg?logo=youtube&logoSource=feather"
             height="25"
         />
     </a>
