@@ -9,7 +9,7 @@ Atualmente foco no ecossistema front-end moderno, trabalhando com **React**, **N
 Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
 
 <p align="left">
-    <a href="https://caiovisuals.com" target="_blank">
+    <a href="https://caiovisuals.com" target="_blank" rel="noopener">
         <img 
             alt="Portfólio" 
             title="Portfólio"
@@ -17,7 +17,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
-    <a href="https://www.linkedin.com/in/caiovisuals-" target="_blank">
+    <a href="https://www.linkedin.com/in/caiovisuals-" target="_blank" rel="noopener">
         <img 
             alt="Linkedin" 
             title="Linkedin"
@@ -25,7 +25,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
-    <a href="https://www.instagram.com/caiovisuals_" target="_blank">
+    <a href="https://www.instagram.com/caiovisuals_" target="_blank" rel="noopener">
         <img 
             alt="Instagram" 
             title="Instagram"
@@ -33,7 +33,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
-    <a href="https://x.com/caioba2007" target="_blank">
+    <a href="https://x.com/caioba2007" target="_blank" rel="noopener">
         <img 
             alt="X" 
             title="X"
