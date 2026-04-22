@@ -29,7 +29,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
         <img 
             alt="YouTube" 
             title="YouTube"
-            src="https://custom-icon-badges.demolab.com/badge/youtube-FF0000.svg?logo=youtube&logoSource=feather"
+            src="https://custom-icon-badges.demolab.com/badge/Youtube-FF0000.svg?logo=youtube&logoSource=feather"
             height="25"
         />
     </a>
