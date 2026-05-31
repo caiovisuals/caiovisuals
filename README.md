@@ -111,6 +111,30 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Golang" 
+    title="Golang"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="35px" 
