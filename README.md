@@ -17,7 +17,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
-    <a href="https://www.linkedin.com/in/caiovisuals-" target="_blank" rel="noopener">
+    <a href="https://www.linkedin.com/in/caiothedev" target="_blank" rel="noopener">
         <img 
             alt="Linkedin" 
             title="Linkedin"
@@ -33,9 +33,17 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
+    <a href="https://www.instagram.com/caiothedev" target="_blank" rel="noopener">
+        <img 
+            alt="Instagram Dev" 
+            title="Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-DD2A7B.svg?logo=instagram&logoColor=white"
+            height="25"
+        />
+    </a>
     <a href="https://www.instagram.com/caiovisuals_" target="_blank" rel="noopener">
         <img 
-            alt="Instagram" 
+            alt="Instagram Visuals" 
             title="Instagram"
             src="https://custom-icon-badges.demolab.com/badge/Instagram-DD2A7B.svg?logo=instagram&logoColor=white"
             height="25"
