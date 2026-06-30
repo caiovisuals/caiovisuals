@@ -3,7 +3,7 @@
 **`Engenheiro de Software`** **`Desenvolvedor FullStack`** **`UX/UI`**
 
 Fala dev! Meu nome é **Caio**, tenho 19 anos e sou desenvolvedor de software e UX/UI! <br/>
-Trabalho a mais de 5 anos como **designer** e 2 anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
+Trabalho a mais de 4 anos como **designer** e **web designer** e 2 anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
 
 Atualmente foco no ecossistema front-end moderno, trabalhando com **React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e **boas práticas de UX/UI.**
 Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
