@@ -9,19 +9,19 @@ Atualmente foco no ecossistema front-end moderno, trabalhando com **React**, **N
 Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
 
 <p align="left">
-    <a href="https://caiovisuals.com" target="_blank" rel="noopener">
-        <img 
-            alt="Portfólio Visuals" 
-            title="Portfólio Visuals"
-            src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-7E80FF.svg?logo=code-review&logoColor=white"
-            height="25"
-        />
-    </a>
     <a href="https://caiothedev.com" target="_blank" rel="noopener">
         <img 
             alt="Portfólio Dev" 
             title="Portfólio Dev"
             src="https://custom-icon-badges.demolab.com/badge/Portfólio%20Dev-1E1E1E.svg?logo=code-review&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://caiovisuals.com" target="_blank" rel="noopener">
+        <img 
+            alt="Portfólio Visuals" 
+            title="Portfólio Visuals"
+            src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-7E80FF.svg?logo=code-review&logoColor=white"
             height="25"
         />
     </a>
@@ -41,19 +41,19 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
             height="25"
         />
     </a>
-    <a href="https://www.instagram.com/caiovisuals_" target="_blank" rel="noopener">
-        <img 
-            alt="Instagram Visuals" 
-            title="Instagram Visuals"
-            src="https://custom-icon-badges.demolab.com/badge/IG%20Visuals-DD2A7B.svg?logo=instagram&logoColor=white"
-            height="25"
-        />
-    </a>
     <a href="https://www.instagram.com/caiothedev" target="_blank" rel="noopener">
         <img 
             alt="Instagram Dev" 
             title="Instagram Dev"
             src="https://custom-icon-badges.demolab.com/badge/IG%20Dev-80418E.svg?logo=instagram&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://www.instagram.com/caiovisuals_" target="_blank" rel="noopener">
+        <img 
+            alt="Instagram Visuals" 
+            title="Instagram Visuals"
+            src="https://custom-icon-badges.demolab.com/badge/IG%20Visuals-DD2A7B.svg?logo=instagram&logoColor=white"
             height="25"
         />
     </a>
