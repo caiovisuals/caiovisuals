@@ -2,12 +2,6 @@
 
 **`Engenheiro de Software`** **`Desenvolvedor FullStack`** **`UX/UI`** - **`Software Engineer`** **`Full-Stack Developer`** **`UX/UI`**
 
-Fala dev! Meu nome é **Caio**, tenho 19 anos e sou desenvolvedor de software e UX/UI! <br/>
-Trabalho a mais de 4 anos como **designer** e **web designer** e 2 anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
-
-Atualmente foco no ecossistema front-end moderno, trabalhando com **React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e **boas práticas de UX/UI.**
-Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
-
 <p align="left">
     <a href="https://caiothedev.com" target="_blank" rel="noopener">
         <img 
@@ -66,6 +60,20 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
         />
     </a>
 </p>
+
+Fala dev! Meu nome é **Caio**, tenho 19 anos e sou desenvolvedor de software e UX/UI! <br/>
+Trabalho a mais de 4 anos como **designer** e **web designer** e 2 anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
+
+Atualmente foco no ecossistema front-end moderno, trabalhando com **React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e **boas práticas de UX/UI.**
+Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
+
+----
+
+Hey there! My name is **Caio**; I’m 19 years old and a software and UX/UI developer. <br/>
+I have over 4 years of experience as a **designer** and **web designer**, and 2 years as a **software engineer**. I create, transform, and develop interfaces, brands, and digital experiences, combining design, code, and UX/UI to build functional, consistent, and well-crafted products.
+
+I currently focus on the modern front-end ecosystem, working with **React**, **Next.js**, and **TypeScript**, while also studying architecture, performance, and **UX/UI best practices.**
+I believe great products stem from a balance of **creativity, technical skill,** and **empathy for the user.**
 
 ### Linguagens e Tecnologias
 
