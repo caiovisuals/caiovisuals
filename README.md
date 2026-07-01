@@ -159,32 +159,30 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
 />
 <img 
     align="left" 
-    alt="Adobe Photoshop" 
-    title="Adobe Photoshop"
+    alt="Photoshop" 
+    title="Photoshop"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
 <img 
     align="left" 
-    alt="Adobe After Effects" 
-    title="Adobe After Effects"
+    alt="After Effects" 
+    title="After Effects"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
 />
 <img 
     align="left" 
-    alt="Adobe Premiere Pro" 
-    title="Adobe Premiere Pro" 
+    alt="Premiere Pro" 
+    title="Premiere Pro" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
 />
 
-<br/>
-<br/>
-<br/>
+<br clear="both"/>
 
 ### Estatísticas
 
