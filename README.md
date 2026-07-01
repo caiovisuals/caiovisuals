@@ -135,6 +135,14 @@ I believe great products stem from a balance of **creativity, technical skill,**
 />
 <img 
     align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="35px" 
