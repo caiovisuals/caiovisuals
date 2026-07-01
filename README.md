@@ -1,6 +1,6 @@
 ## 👾caiothedev!
 
-**`Engenheiro de Software`** **`Desenvolvedor FullStack`** **`UX/UI`**
+**`Engenheiro de Software`** **`Desenvolvedor FullStack`** **`UX/UI`** - **`Software Engineer`** **`Full-Stack Developer`** **`UX/UI`**
 
 Fala dev! Meu nome é **Caio**, tenho 19 anos e sou desenvolvedor de software e UX/UI! <br/>
 Trabalho a mais de 4 anos como **designer** e **web designer** e 2 anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
