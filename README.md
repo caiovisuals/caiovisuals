@@ -173,30 +173,6 @@ I believe great products stem from a balance of **creativity, technical skill,**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-/>
-<img 
-    align="left" 
-    alt="After Effects" 
-    title="After Effects"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Premiere Pro" 
-    title="Premiere Pro" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-/>
 
 <br clear="both"/>
 
