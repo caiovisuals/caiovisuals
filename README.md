@@ -7,7 +7,7 @@
         <img 
             alt="Portfólio Dev" 
             title="Portfólio Dev"
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio%20Dev-1E1E1E.svg?logo=code-review&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-1E1E1E.svg?logo=code-review&logoColor=white"
             height="25"
         />
     </a>
@@ -15,7 +15,7 @@
         <img 
             alt="Portfólio Visuals" 
             title="Portfólio Visuals"
-            src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-7E80FF.svg?logo=code-review&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio%20Visual-7E80FF.svg?logo=code-review&logoColor=white"
             height="25"
         />
     </a>
