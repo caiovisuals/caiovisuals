@@ -11,14 +11,6 @@
             height="25"
         />
     </a>
-    <a href="https://caiovisuals.com" target="_blank" rel="noopener">
-        <img 
-            alt="Portfólio Visuals" 
-            title="Portfólio Visuals"
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio%20Visual-7E80FF.svg?logo=code-review&logoColor=white"
-            height="25"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/caiothedev" target="_blank" rel="noopener">
         <img 
             alt="Linkedin" 
@@ -40,14 +32,6 @@
             alt="Instagram Dev" 
             title="Instagram Dev"
             src="https://custom-icon-badges.demolab.com/badge/IG%20Dev-80418E.svg?logo=instagram&logoColor=white"
-            height="25"
-        />
-    </a>
-    <a href="https://www.instagram.com/caiovisuals_" target="_blank" rel="noopener">
-        <img 
-            alt="Instagram Visuals" 
-            title="Instagram Visuals"
-            src="https://custom-icon-badges.demolab.com/badge/IG%20Visuals-DD2A7B.svg?logo=instagram&logoColor=white"
             height="25"
         />
     </a>
