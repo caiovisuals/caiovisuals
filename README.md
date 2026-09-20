@@ -5,8 +5,8 @@
 <p align="left">
     <a href="https://caiothedev.com" target="_blank" rel="noopener">
         <img 
-            alt="Portfólio Dev" 
-            title="Portfólio Dev"
+            alt="Portfólio" 
+            title="Portfólio"
             src="https://custom-icon-badges.demolab.com/badge/Meu%20Portfólio-1E1E1E.svg?logo=code-review&logoColor=white"
             height="25"
         />
@@ -29,9 +29,9 @@
     </a>
     <a href="https://www.instagram.com/caiothedev" target="_blank" rel="noopener">
         <img 
-            alt="Instagram Dev" 
-            title="Instagram Dev"
-            src="https://custom-icon-badges.demolab.com/badge/IG%20Dev-80418E.svg?logo=instagram&logoColor=white"
+            alt="Instagram" 
+            title="Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-80418E.svg?logo=instagram&logoColor=white"
             height="25"
         />
     </a>
