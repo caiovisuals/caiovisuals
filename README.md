@@ -13,7 +13,7 @@
 Fala dev! Meu nome é **Caio**, tenho 19 anos e sou desenvolvedor de software e UX/UI!<br/>
 Trabalho a mais de quatro anos como **engenheiro de software**. Trabalho criando, transformando e desenvolvendo interfaces, marcas e experiências digitais, unindo design, código e UX/UI para construir produtos funcionais, consistentes e muito bem pensados.
 
-Atualmente foco no ecossistema full-stack moderno, trabalhando com **Java**, **Node.js**, **React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e **boas práticas de segurança.**
+Atualmente foco no ecossistema Full-Stack moderno, trabalhando com **Java**, **Node.js**, **React**, **Next.js** e **TypeScript**, além de estudar arquitetura, performance e **boas práticas de segurança.**
 Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica** e **empatia pelo usuário.**
 
 ----
@@ -21,7 +21,7 @@ Acredito que bons produtos nascem do equilíbrio entre **criatividade, técnica*
 Hey there! My name is **Caio**; I’m 19 years old and a software and UX/UI developer.<br/>
 I have been working as a **software engineer** for over four years. I create, transform, and develop interfaces, brands, and digital experiences, combining design, code, and UX/UI to build functional, consistent, and well-crafted products.
 
-I currently focus on the modern full-stack ecosystem, working with **Java**, **Node.js**, **React**, **Next.js**, and **TypeScript**, while also studying architecture, performance, and **security best practices.**
+I currently focus on the modern Full-Stack ecosystem, working with **Java**, **Node.js**, **React**, **Next.js**, and **TypeScript**, while also studying architecture, performance, and **security best practices.**
 I believe that great products stem from a balance of **creativity, technical skill,** and **empathy for the user.**
 
 ### Linguagens e Tecnologias
